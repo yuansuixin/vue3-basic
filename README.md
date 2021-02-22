@@ -1,4 +1,4 @@
-# vu3-basic
+git # vu3-basic
 
 ## Project setup
 ```
@@ -21,4 +21,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
