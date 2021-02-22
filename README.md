@@ -1,4 +1,4 @@
-git # vu3-basic
+# vu3-basic vue3新特性
 
 ## Project setup
 ```
